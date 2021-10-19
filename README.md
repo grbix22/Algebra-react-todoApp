@@ -28,5 +28,4 @@ Example todo application developed during Frontend developer course in Algebra
 - [ ] Recurring items(scheduling on calendar)
 - [ ] Export (CSV)
 - [ ] Report (items completed by day,month, etc.)
-- [ ] Add SCSS Styling
-- [ ]
+- [ ] Add SCSS styling
